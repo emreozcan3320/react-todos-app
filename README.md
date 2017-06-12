@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 <br>
-Also you can find <em>DEMO at heroku<em/>
+Also you can find <strong><em>DEMO at heroku<em/><strong/>
 <br>
 [<img style="height:10vh;" src="src/assets/img/heroku-button.jpg">](https://evening-eyrie-59081.herokuapp.com/)
 
